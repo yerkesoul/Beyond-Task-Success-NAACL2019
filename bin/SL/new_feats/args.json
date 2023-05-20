@@ -1,0 +1,1 @@
+{"data_dir": "data", "config": "config/SL/config.json", "exp_name": "new_feats", "bin_name": "new_feats", "my_cpu": true, "breaking": false, "resnet": false, "modulo": 7, "no_decider": false, "ckpt": null}
